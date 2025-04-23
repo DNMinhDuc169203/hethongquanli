@@ -1,0 +1,23 @@
+[2025-04-19 07:41:24] Start registration for: gv1, Dang Minh A, gv1@stu.vn
+[2025-04-19 07:41:24] Database connection successful
+[2025-04-19 07:41:24] Started transaction
+[2025-04-19 07:41:24] User added to nguoi_dung table
+[2025-04-19 07:41:24] New user ID: 12
+[2025-04-19 07:41:24] GiaoVienModel - createGiaoVien() - Start
+[2025-04-19 07:41:24] Parameters: nguoi_dung_id=12, hoc_vi=Cử Nhân, chuyen_nganh=CNTT
+[2025-04-19 07:44:51] Start registration for: gv1, Dang Minh A, gv1@stu.vn
+[2025-04-19 07:44:51] Database connection successful
+[2025-04-19 07:44:51] Started transaction
+[2025-04-19 07:44:51] User added to nguoi_dung table
+[2025-04-19 07:44:51] New user ID: 13
+[2025-04-19 07:44:51] Table giao_vien exists
+[2025-04-19 07:44:51] Teacher data added to giao_vien table
+[2025-04-19 07:44:51] Transaction committed successfully
+[2025-04-19 11:46:17] Start registration for: gv2, Dang Minh B, gv2@stu.vn
+[2025-04-19 11:46:17] Database connection successful
+[2025-04-19 11:46:17] Started transaction
+[2025-04-19 11:46:17] User added to nguoi_dung table
+[2025-04-19 11:46:17] New user ID: 14
+[2025-04-19 11:46:17] Table giao_vien exists
+[2025-04-19 11:46:17] Teacher data added to giao_vien table
+[2025-04-19 11:46:17] Transaction committed successfully

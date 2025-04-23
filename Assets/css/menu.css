@@ -1,0 +1,24 @@
+.menu-item {
+    padding: 12px 20px;
+    margin: 8px 0;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.menu-item a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 16px;
+    display: block;
+}
+
+.menu-item:hover {
+    background-color: #007bff;
+    transform: translateX(5px);
+}
+
+.menu-item:hover a {
+    color: #fff;
+}
